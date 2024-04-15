@@ -1,6 +1,6 @@
 <h1 align = "center"> Sorting Algorithms</h1>
 
-<table>
+<table align= "center">
   <tr>
         <th>Algorithm</th>
         <th>Solution</th> 
