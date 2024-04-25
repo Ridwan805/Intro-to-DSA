@@ -15,7 +15,7 @@ int insertionsort(int arr[],int n){
         
         arr[i],arr[min] = arr[min],arr[i];
     }
-    
+    return 0; 
 }
 
 int main()
